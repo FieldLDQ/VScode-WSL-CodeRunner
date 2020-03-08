@@ -15,3 +15,5 @@ code:
 保存后重启VScode，再次以WSL为终端运行代码
 
 ![成功更改](https://github.com/FieldLDQ/VScode-WSL-CodeRunner/blob/master/3.jpg)
+
+可见斜杠转换成功，终端成功运行！
